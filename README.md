@@ -3,7 +3,14 @@ I am a Bachelor of Technology graduate in Computer Science Engineering from Teeg
   A passionate full-stack developer and a tech enthusiast from India.
 <img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif3.gif" align="right" alt="Coding" height="200" width="300"/>
 <br>
-  
+
+<!-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1C47rn7c1Uq3-LIJfhDVG5oASO8REU3Q9/view?usp=sharing)
+- :superhero_man: Coding Blocks Superhero - I’m a Campus Ambassador at Coding blocks
+- :blue_heart: I was part of Internshala Student Partner 18 (ISP 18) - One of the India's largest student community
+- :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/) - An official student technical community under GitHub Campus Expert :triangular_flag_on_post:
+- :heart_eyes: Schwags and Goodies drives me crazy
+- 📫 How to reach me [Mail](mailto:rudra.barad@gmail.com)
+- :sparkling_heart: Fun Fact - I love using Emojis-->
 - 📫 How to reach me [Mail](mailto:karthik.panuganti@outlook.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
