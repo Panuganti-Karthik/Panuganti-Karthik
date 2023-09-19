@@ -1,8 +1,8 @@
 <h1 align="center" style="background-color:pink;">Hi 👋, I'm Panuganti Karthik</h1>
 <h3 align="center">A passionate full-stack developer and a tech enthusiast from India.</h3>
 
-- 📫 How to reach me **karthik.panuganti@outlook.com**
 <p align="right"> <img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif1.gif" alt="panuganti-karthik" /> </p>
+- 📫 How to reach me **karthik.panuganti@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthik-panuganti-a20294238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthik-panuganti-a20294238/" height="30" width="40" /></a>
