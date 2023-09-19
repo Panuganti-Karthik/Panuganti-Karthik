@@ -1,4 +1,8 @@
-<h1 align="center" style="background-color:pink;">Hi 👋, I'm Panuganti Karthik</h1>
+<style>
+    .blue {
+        background-color: #0074D9;
+    }
+</style><h1 align="center" >Hi 👋, I'm Panuganti Karthik</h1>
 I am a Bachelor of Technology graduate in Computer Science Engineering from Teegala Krishna Reddy Engineering College.<br><br>
   A passionate full-stack developer and a tech enthusiast from India.
 <img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif3.gif" align="right" alt="Coding" height="200" width="300"/>
