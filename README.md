@@ -1,4 +1,4 @@
-<h1 align="center" bgcolor="pink">Hi 👋, I'm Panuganti Karthik</h1>
+<h1 align="center" style="background-color:pink;">Hi 👋, I'm Panuganti Karthik</h1>
 <h3 align="center">A passionate full-stack developer and a tech enthusiast from India.</h3>
 
 - 📫 How to reach me **karthik.panuganti@outlook.com**
