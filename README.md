@@ -1,6 +1,6 @@
 <h1 align="center" style="background-color:pink;">Hi 👋, I'm Panuganti Karthik</h1>
 <h3 align="center">A passionate full-stack developer and a tech enthusiast from India.</h3>
-<img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif1.gif" alt="panuganti-karthik" />
+<img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif1.gif" align="right" alt="Coding" width="400"/>
 
 - 📫 How to reach me **karthik.panuganti@outlook.com**
 <h3 align="left">Connect with me:</h3>
