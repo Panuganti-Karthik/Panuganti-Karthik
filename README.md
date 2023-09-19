@@ -3,7 +3,6 @@
 
 <p align="right"> <img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif1.gif" alt="panuganti-karthik" /> </p>
 
-
 - 📫 How to reach me **karthik.panuganti@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
