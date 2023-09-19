@@ -1,8 +1,9 @@
 <h1 align="center" style="background-color:pink;">Hi 👋, I'm Panuganti Karthik</h1>
-<h3 align="center">I am a Bachelor of Technology graduate in Computer Science Engineering from Teegala Krishna Reddy Engineering college.<br><br>
-  A passionate full-stack developer and a tech enthusiast from India.</h3>
+I am a Bachelor of Technology graduate in Computer Science Engineering from Teegala Krishna Reddy Engineering College.<br><br>
+  A passionate full-stack developer and a tech enthusiast from India.
 <img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif3.gif" align="right" alt="Coding" height="200" width="300"/>
-
+<br>
+  
 - 📫 How to reach me [Mail](mailto:karthik.panuganti@outlook.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
