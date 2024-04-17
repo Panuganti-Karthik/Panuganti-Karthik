@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panuganti Karthik</h1>
-I am a Bachelor of Technology graduate in Computer Science Engineering from Teegala Krishna Reddy Engineering College.<br><br>
+I graduated from Teegala Krishna Reddy Engineering College, where I earned my Bachelor of Technology in Computer Science Engineering. My educational background has provided me with a strong foundation in the principles and practices of computer science, as well as the ability to apply this knowledge to real-world situations. My skills and experience make me a strong candidate for any relevant business or academic opportunities that may arise.<br><br>
   I am a passionate full-stack developer and a tech enthusiast from India.
 <img src="https://github.com/Panuganti-Karthik/Panuganti-Karthik/blob/main/gif3.gif" align="right" alt="Coding" height="200" width="300"/>
 <br>
